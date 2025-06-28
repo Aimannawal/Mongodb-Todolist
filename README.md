@@ -106,7 +106,7 @@ Mengakses collection:
 
 ## 📁 Terkait
 
-* [🔗 ToDo List API in Go (Native)](https://github.com/yourname/go-todolist-native)
+* [🔗 ToDo List API in Go (Native)](https://github.com/Aimannawal/Go-Todolist.git)
 
 ---
 
